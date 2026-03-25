@@ -1,1 +1,0 @@
-python scripts/cdp_publish.py login
